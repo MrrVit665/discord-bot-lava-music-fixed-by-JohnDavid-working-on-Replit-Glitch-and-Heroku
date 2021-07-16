@@ -2,15 +2,15 @@
   "token": "TOKEN",
   "prefix": "!",
 
-  "clientsettings": {
-    "nodes": [
-      {
-         "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
-       }
-     ]
-  },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
 
   "spotify": {
     "clientSecret": "",
